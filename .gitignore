@@ -1,0 +1,12 @@
+*.log
+*.pid
+*.gz
+*.tar
+*.zip
+*.swp
+*.bak
+*.tmp
+tmp/
+*.o
+*.out
+*.so
